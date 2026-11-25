@@ -5,10 +5,8 @@
 **Universidad Autónoma del Estado de México**
 
 - **Unidad de aprendizaje:** Transmisión de Datos
-- **Alumno(s):** _[nombre]_
-- **Profesor(a):** _[nombre]_
-- **Grupo:** _[grupo]_
-- **Fecha:** _[fecha]_
+- **Alumno(s):** _Billy Rivera Salinas_
+- **Profesor(a):** Erick Gustavo Peña Camacho
 
 ---
 
